@@ -1,0 +1,22 @@
+{
+  "name": "oaa-utils",
+  "description": "An AngularJS module containing helpers common to the OAA app",
+  "main": [
+    "dist/oaa-utils.js"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Ryan McLean"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mcleanra/oaa-utils",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

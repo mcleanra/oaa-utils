@@ -1,0 +1,6 @@
+gulp.1
+build
+.tmp
+/src/release
+/bower_components
+/node_modules
